@@ -12,6 +12,8 @@
 ## Workflow Diagram (Generated from Code)
 ![LangGraph Workflow](examples/workflow_diagram.png)
 
+📖 **[View Detailed Workflow Documentation →](docs/WORKFLOW.md)**
+
 ## Features
 - Fetches PR data and diffs via GitHub MCP.
 - Validates target branch is `main`.
