@@ -1,0 +1,8 @@
+langgraph
+langchain-ollama
+streamlit
+python-dotenv
+mcp
+httpx
+pydantic
+pydantic-settings
